@@ -8,7 +8,7 @@ Practise GitHub Flow
 **Hi, this is the Background in bold fonts.**
 
 ## Justification
-`from math import math`
+Inline code: `from math import math`
 ```
 block of code
 ```
